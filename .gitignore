@@ -1,0 +1,15 @@
+# npm cache
+.npm
+.yarn
+
+# Editor config files
+.idea
+.vscode
+
+# Compiled JS and map files
+*.js.map
+dist/
+build/
+
+# OS generated files
+.DS_Store
